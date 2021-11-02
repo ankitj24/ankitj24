@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitj24
-- 👀 I’m interested in recruit IT talent
+- 👀 I’m interested in recruiting/hiring IT talent.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Developers/Architects 
+- 💞️ I’m looking to collaborate with Recruiters, Developers/Architects.
 - 📫 How to reach me ...
 
 <!---
